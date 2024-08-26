@@ -1,5 +1,10 @@
-# DieHardNet for Semantic Segmentation
-Base code for running the hardened segmentation experiments on simulated environments
+# Transient Fault Tolerant Semantic Segmentation for Autonomous Driving \[ECCV UnCV Workshop 2024\]
+Official code of our work "Transient Fault Tolerant Semantic Segmentation for Autonomous Driving" accepted at the [3rd Workshop on Uncertainty Quantification for Computer Vision (UnCV)](https://uncertainty-cv.github.io/2024/) at ECCV 2024.
+
+<p align="center"><img width="50%" src="./assets/teaser.png"></p>
+
+# Introduction
+<i>Deep learning models are crucial for autonomous vehicle perception, but their reliability is challenged by algorithmic limitations and hardware faults. We address the latter by examining fault-tolerance in semantic segmentation models. Using established hardware fault models, we evaluate existing hardening techniques both in terms of accuracy and uncertainty and introduce ReLUMax, a novel simple activation function designed to enhance resilience against transient faults. ReLUMax integrates seamlessly into existing architectures without time overhead. Our experiments demonstrate that ReLUMax effectively improves robustness, preserving performance and boosting prediction confidence, thus contributing to the development of reliable autonomous driving systems.</i>
 
 ## Getting Started
 
