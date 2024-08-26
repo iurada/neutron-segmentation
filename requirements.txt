@@ -1,0 +1,12 @@
+--find-links https://download.pytorch.org/whl/cu118
+torch>=2.0.0+cu118
+torchvision 
+torchaudio
+tqdm
+scikit-learn
+cityscapesscripts
+numpy
+Pillow
+typing
+ipython
+timm
