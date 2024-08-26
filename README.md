@@ -1,5 +1,5 @@
 # Transient Fault Tolerant Semantic Segmentation for Autonomous Driving \[ECCV UnCV Workshop 2024\]
-Official code of our work "Transient Fault Tolerant Semantic Segmentation for Autonomous Driving" accepted at the [3rd Workshop on Uncertainty Quantification for Computer Vision (UnCV)](https://uncertainty-cv.github.io/2024/) at ECCV 2024.
+Official code of our work "Transient Fault Tolerant Semantic Segmentation for Autonomous Driving" accepted at the [3rd Workshop on Uncertainty Quantification for Computer Vision (UnCV)](https://uncertainty-cv.github.io/2024/) (Extended Abstract Track) at ECCV 2024.
 
 <p align="center"><img width="50%" src="./assets/teaser.png"></p>
 
